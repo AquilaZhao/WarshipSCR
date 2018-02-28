@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.0.0" Device="DESKTOP-6HUGBSR" Modified="2018-02-24 15:17:03 +0000" ModID="C7344804-D57C-4DB2-800C-B2A4B38EE39C">
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.0.0" Device="DESKTOP-6HUGBSR" Modified="2018-02-28 12:08:14 +0000" ModID="F5D9C152-50B5-4C0E-8823-ABFB792D6E3E">
     <Binder>
         <BinderItem ID="13" UUID="8290031F-83D1-4DF5-B35B-87877F81B852" Created="2010-10-26 14:33:29 +0000" Modified="2018-02-19 01:52:33 +0000" Type="Text">
             <Title>剧本格式说明</Title>
@@ -61,7 +61,7 @@
                             </MetaData>
                             <TextSettings>
                                 <TextMode>Script</TextMode>
-                                <TextSelection>542,542</TextSelection>
+                                <TextSelection>512,512</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
@@ -280,7 +280,7 @@
                         <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>68,68</TextSelection>
+                        <TextSelection>176,0</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
