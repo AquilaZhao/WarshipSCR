@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.0.0" Device="DESKTOP-6HUGBSR" Modified="2018-03-03 13:26:07 +0000" ModID="DF6F5BCE-B771-46B5-9AEA-C2C93F84F110">
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.0.0" Device="Aquila-Lenovo" Modified="2018-03-05 08:55:40 +0000" ModID="8A637ACC-F6B1-4775-8B7D-38067FB0446A">
     <Binder>
         <BinderItem ID="13" UUID="8290031F-83D1-4DF5-B35B-87877F81B852" Created="2010-10-26 14:33:29 +0000" Modified="2018-03-02 07:41:13 +0000" Type="Text">
             <Title>剧本格式说明</Title>
@@ -62,6 +62,18 @@
                             <TextSettings>
                                 <TextMode>Script</TextMode>
                                 <TextSelection>281,281</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="36" UUID="DB85E1E0-429A-4760-BB57-131B11F95D30" Created="2018-03-05 07:45:09 +0000" Modified="2018-03-05 07:53:01 +0000" Type="Text">
+                            <Title>设定模板</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                                <IconFileName>Locations (Location Sheet).tiff</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>222,222</TextSelection>
                                 <Target Type="Words">0</Target>
                             </TextSettings>
                         </BinderItem>
